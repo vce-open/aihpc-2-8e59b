@@ -7,7 +7,7 @@ sections:
     content: |
       **December 18 - 19, 2021**
     actions:
-      - label: Get Your Ticket Today!
+      - label: Submit Your Papers Today
         url: /about
         style: primary
     align: center
