@@ -21,9 +21,8 @@ sections:
     grid_items:
       - title: 2 Days
         title_align: left
-        content: >
-          Attend a four-track and two days conference, gathering international
-          speakers and researchers.
+        content: |
+          Attend a four-track and two days international gathering conference.
         content_align: left
         image: images/2-days.svg
         image_alt: Section item 1 icon
