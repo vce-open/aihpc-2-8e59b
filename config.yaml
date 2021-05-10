@@ -34,6 +34,7 @@ params:
       target="_blank" rel="noopener">Stackbit</a>. Create yours <a
       href="https://app.stackbit.com/create?theme=event&utm_source=deployed-footer"
       target="_blank" rel="noopener">now</a>
+  domain: 'https://aihpc-2-8e59b.netlify.app'
 taxonomies:
   stub: stub
 disableKinds:
