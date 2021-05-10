@@ -19,7 +19,7 @@ params:
       - label: Sponsorship
         url: /sponsorship
         style: link
-      - label: lorem-ipsum
+      - label: Commitee
         url: '#'
         style: link
         has_icon: false
