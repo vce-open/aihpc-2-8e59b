@@ -116,7 +116,7 @@ sections:
     background_color: primary
     background_image: images/cta-background.png
     background_image_opacity: 50
-    content: "*   Submission Opening date\_\_\_\_\_\_\_                               23rd April 2021\n\n*   Submission closing date\_\_\_\_\_\_\_\_\_                               3rd July 2021\n\n*   Acceptance notification for final papers\_\_\_\_\_\_\_\_\_  2nd August 2021\n\n*   Camera Ready copy deadline\_                              22nd August 2021\n"
+    content: "Submission Opening date\_\_\_\_\_\_\_                               23rd April 2021\n\nSubmission closing date\_\_\_\_\_\_\_\_\_                               3rd July 2021\n\nAcceptance notification for final papers\_\_\_\_\_\_\_\_\_  2nd August 2021\n\nCamera Ready copy deadline\_                              22nd August 2021\n"
   - type: grid_section
     title: Speakers & Instructors
     subtitle: Fantastic lineup of experts!
