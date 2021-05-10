@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Inspire. Create. Build.
+    title: Artificial Intelligence & High Performance Computing
     subtitle: Conference for Creative People
     content: |
       **December 18 - 19, 2021**
