@@ -31,8 +31,8 @@ params:
     content: >-
       &copy; Vardhaman College of Engineering. All rights reserved. This
       Jamstack site was created with <a
-      href="https://www.stackbit.com/?utm_source=deployed-footer"
-      target="Stackbit and HUGO, by CSE Department. 
+      href="https://www.stackbit.com/?utm_source=deployed-footer" targStackbit
+      and HUGO, by CSE Department. 
   domain: 'https://aihpc-2-8e59b.netlify.app'
 taxonomies:
   stub: stub
