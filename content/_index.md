@@ -102,7 +102,7 @@ sections:
   - type: cta_section
     title: Dates to be Remembered
     actions:
-      - label: Get tickets
+      - label: Submit Papers Now
         url: /thank-you
         style: primary
         has_icon: true
