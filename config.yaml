@@ -29,10 +29,8 @@ params:
     has_tertiary_nav: false
     has_social: false
     content: >-
-      &copy; Vardhaman College of Engineering. All rights reserved. This
-      Jamstack site was created with <a
-      href="https://www.stackbit.com/?utm_source=deployed-footeStackbit and
-      HUGO, by CSE Department. 
+      © Vardhaman College of Engineering. All rights reserved. This site was
+      created with HUGO and Stackbit, by CSE Department.
   domain: 'https://aihpc-2-8e59b.netlify.app'
 taxonomies:
   stub: stub
