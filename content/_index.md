@@ -40,7 +40,8 @@ sections:
         image_width: twenty-five
       - title: 20+ Speakers
         title_align: left
-        content: Best in the field speakers and instructors.
+        content: |
+          Best in the field speakers and professors.
         content_align: left
         image: images/20-speakers.svg
         image_alt: Section item 3 icon
